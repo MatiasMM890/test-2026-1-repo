@@ -1,1 +1,3 @@
-El proyecto 2 es un juego de Pokemon
+El proyecto 2 es un juego de Pokémon
+
+Tambien quiero que tenga mecanicas de elden ring
